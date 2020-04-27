@@ -153,7 +153,7 @@ button.pack()
 
 
 
-image = Image.open("venv/nowe.jpg")
+image = Image.open("nowe.jpg")
 root.update()
 new_size = (frame2.winfo_width(),frame2.winfo_height()//4)
 print(new_size)
